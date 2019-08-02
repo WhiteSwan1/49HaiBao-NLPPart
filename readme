@@ -6,6 +6,7 @@
 git clone https://github.com/WhiteSwan1/49HaiBao-NLPPart.git
 2.下载预训练模型：
 pos.model ： https://pan.baidu.com/s/1rltN3JbqGlRXraBGKgFtZQ
+将文件放至 code/model 中
 3.使用：
 见test
 
