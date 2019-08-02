@@ -1,1 +1,13 @@
-Hi
+本代码是49组嗨报队的NLP-Part部分，目前仅包含：关键词提取 和 词性标注 部分，不用于商业用途。
+特别感谢 jiagu ： https://github.com/ownthink/Jiagu
+
+使用说明：
+1.安装：
+git clone https://github.com/WhiteSwan1/49HaiBao-NLPPart.git
+2.下载预训练模型：
+pos.model ： https://pan.baidu.com/s/1rltN3JbqGlRXraBGKgFtZQ
+3.使用：
+见test
+
+待续……
+
