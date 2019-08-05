@@ -15,6 +15,6 @@ pos.model ： https://pan.baidu.com/s/1rltN3JbqGlRXraBGKgFtZQ
 1.安装：
 如上
 2.从 https://github.com/google-research/bert 下载bert源代码，存放在路径下bert文件夹中
-3.从 下载训练好的车展ner模型
+3.从链接: https://pan.baidu.com/s/1V2ULEpRLlYxF51nEmgzgcg 提取码: b55q 下载训练好的车展ner模型，存放至output/result_dir
 4.使用：
 见main.py。模型提供以string作为输入的接口。
