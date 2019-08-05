@@ -10,5 +10,11 @@ pos.model ： https://pan.baidu.com/s/1rltN3JbqGlRXraBGKgFtZQ
 3.使用：
 见test
 
-待续……
-
+8月5日：新增ner-part
+使用说明：
+1.安装：
+如上
+2.从 https://github.com/google-research/bert 下载bert源代码，存放在路径下bert文件夹中
+3.从 下载训练好的车展ner模型
+4.使用：
+见main.py。模型提供以string作为输入的接口。
